@@ -50,4 +50,3 @@ for(let i=0;i<n;i++)
 
 }
 console.log(pos.length===1 ? 1 : number);
-
